@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">examenParcial1</string>
+
+    <string name="Titulo">Soluciones de Ecuaciones Cuadraticas</string>
+    <string name="ingreseA">Ingrese A</string>
+    <string name="ingreseB">Ingrese B</string>
+    <string name="ingreseC">Ingrese C</string>
+    <string name="calcular">CALCULAR</string>
+
+
+
+</resources>
